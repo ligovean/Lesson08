@@ -1,5 +1,5 @@
 .idea
-*.xml
-*.iml
 src\test
 target
+*.xml
+*.iml
